@@ -5,14 +5,14 @@ on desktop and mobile devices. We also cover website navigation and breadcrumbs.
 
 ## Bootstrap Framework
 
-** What is Bootstrap?
-** How to add it to a page?
-** Layout
-** Typography
-** Elements
+* What is Bootstrap?
+* How to add it to a page?
+* Layout
+* Typography
+* Elements
 
 ## Website Structure
 
-** Page hierarchy
-** Navigation
-** Breadcrumbs
+* Page hierarchy
+* Navigation
+* Breadcrumbs

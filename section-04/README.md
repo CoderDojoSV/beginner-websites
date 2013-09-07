@@ -4,13 +4,13 @@ In this section, we learn some introductory Javascript and about the jQuery fram
 
 ## Introduction to Javascript
 
-** Javascript Overview
-** Hello World
-** Variables
-** Functions
+* Javascript Overview
+* Hello World
+* Variables
+* Functions
 
 ## jQuery Basics
 
-** Add jQuery Framework to a page
-** Handling click events
+* Add jQuery Framework to a page
+* Handling click events
 

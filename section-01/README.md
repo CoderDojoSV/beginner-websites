@@ -5,12 +5,12 @@ more organized and easier to read. We also learn how to include media in our HTM
 
 ## Content Formatting
 
-** Sections
-** Paragraphs
-** Lists
-** Tables
+* Sections
+* Paragraphs
+* Lists
+* Tables
 
 ## Media
 
-** Images
-** Video
+* Images
+* Video

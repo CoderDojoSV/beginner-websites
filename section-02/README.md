@@ -5,10 +5,10 @@ start with some CSS fundamentals and practice styling pages created in previous 
 
 ## Content Styling
 
-** CSS Overview
-** Stylesheets
-** Selectors
-** Text formatting
-** Positioning
-** Colors and backgrounds
-** Borders and shadows
+* CSS Overview
+* Stylesheets
+* Selectors
+* Text formatting
+* Positioning
+* Colors and backgrounds
+* Borders and shadows
