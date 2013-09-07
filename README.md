@@ -8,13 +8,13 @@ Make a simple website from scratch using HTML, CSS and Javascript. No prior know
 
 ## Sections
 
-[:earth_americas: Section 0][0]: Getting Started - Website Overview, Code Editor and HTML Basics
-[:earth_americas: Section 1][1]: Content Formatting and Media
-[:earth_americas: Section 2][2]: Content Appearance and Styling
-[:earth_americas: Section 3][3]: CSS Styling with Bootstrap
-[:earth_americas: Section 4][4]: Introduction to Javascript
-[:earth_americas: Section 5][5]: Website Interactivity with Javascript
-[:earth_americas: Section 6][6]: Putting it all Together
+[:earth_americas: Section 0][0]: Getting Started - Website Overview, Code Editor and HTML Basics  
+[:earth_americas: Section 1][1]: Content Formatting and Media  
+[:earth_americas: Section 2][2]: Content Appearance and Styling  
+[:earth_americas: Section 3][3]: CSS Styling with Bootstrap  
+[:earth_americas: Section 4][4]: Introduction to Javascript  
+[:earth_americas: Section 5][5]: Website Interactivity with Javascript  
+[:earth_americas: Section 6][6]: Putting it all Together  
 
 ## Requirements
 
