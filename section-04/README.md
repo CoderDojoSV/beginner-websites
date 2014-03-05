@@ -14,4 +14,5 @@ In this section, we learn some introductory Javascript and about the jQuery fram
 * Add jQuery Framework to a page
 * Handling click events
 
-http://www.gifanimations.com/thumbs/NjI1MWZjNWY0OGIzN2E=/NTJmYzVmNDhiMzdh/cartoon.jpg
+![alt text](http://www.gifanimations.com/thumbs/NjI1MWZjNWY0OGIzN2E=/NTJmYzVmNDhiMzdh/cartoon.jpg "Logo Title Text 1")
+
